@@ -7,3 +7,5 @@ allowed to add are creativity without disturbing the basic layout
 . so I made this if you have any suggestion I will be thankfull for your guidance.
 
 my discord id - sanyog1
+
+this is the live link for it - https://sanyogaggarwal.github.io/landing-page-TOP/
